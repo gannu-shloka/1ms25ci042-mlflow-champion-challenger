@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.92,
+  "macro_f1": 0.9179,
+  "macro_precision": 0.921,
+  "macro_recall": 0.9155,
+  "avg_latency_ms": 119.96,
+  "total_inference_s": 12.0
+}

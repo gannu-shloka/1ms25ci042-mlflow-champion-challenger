@@ -1,0 +1,8 @@
+id,text,reference,pred_A,pred_B,who_is_correct,my_comment
+6,the film tunes into a grief that could lead a man across centuries .,POSITIVE,NEGATIVE,POSITIVE,B,
+18,true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable .,POSITIVE,NEGATIVE,POSITIVE,B,
+35,i 'll bet the video game is a lot more fun than the film .,NEGATIVE,POSITIVE,NEGATIVE,B,
+42,"the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes .",NEGATIVE,POSITIVE,NEGATIVE,B,
+61,"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script .",POSITIVE,POSITIVE,NEGATIVE,A,
+69,the iditarod lasts for days - this just felt like it did .,NEGATIVE,NEGATIVE,POSITIVE,A,
+95,"/ but daphne , you 're too buff / fred thinks he 's tough / and velma - wow , you 've lost weight !",NEGATIVE,NEGATIVE,POSITIVE,A,
